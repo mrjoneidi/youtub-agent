@@ -1,0 +1,8 @@
+google-generativeai
+moviepy
+gTTS
+google-api-python-client
+google-auth-oauthlib
+schedule
+Pillow
+numpy
